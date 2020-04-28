@@ -3,10 +3,13 @@ Python implementation of Key-byte algorithm for image compression. The algorithm
 
 
 Original Image:
+
 ![](Dog.jpg)
 
 Compressed Image:
+
 ![](Dog(compressed).jpg)
 
 Decompressed Image:
+
 ![](Dog(decompressed).jpg)
