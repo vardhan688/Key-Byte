@@ -1,5 +1,5 @@
 # Key-Byte
-Key-byte algorithm for image compression.
+Python implementation of Key-byte algorithm for image compression. The algorithm tries to get the highest compression factor and the reconstructed image looks almost similar to the original image.
 
 
 Original Image:
