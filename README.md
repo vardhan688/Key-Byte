@@ -6,7 +6,7 @@ Original Image:
 ![](Dog.jpg)
 
 Compressed Image:
-![](Compressed and Decompressed image/Dog(compressed).jpg)
+![](Compressed and Decompressed image/Dog (compressed).jpg)
 
 Decompressed Image:
-![](Compressed and Decompressed image/Dog(decompressed).jpg)
+![](Compressed and Decompressed image/Dog (decompressed).jpg)
